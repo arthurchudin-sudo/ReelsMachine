@@ -1,0 +1,5 @@
+# Contraintes par plateforme
+instagram: {aspect: "9:16", tone: gringo, min_s: 20, max_s: 75}
+tiktok:    {aspect: "9:16", tone: gringo, min_s: 20, max_s: 75}
+shorts:    {aspect: "9:16", tone: gringo, min_s: 20, max_s: 60}
+linkedin:  {aspect: "4:5",  tone: pro,    min_s: 30, max_s: 120}

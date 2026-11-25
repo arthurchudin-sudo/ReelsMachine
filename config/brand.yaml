@@ -1,0 +1,21 @@
+# Identité Frisky Drinks — utilisée par les prompts
+brand: Frisky Drinks
+owner: Arthur Hudin
+positioning: >
+  Consultant bar & formateur, 18 ans d'hospitalité de luxe. Aide les patrons de bars,
+  restaurants et hôtels à créer une offre bar mémorable et rentable.
+audience: Patrons et managers CHR (bars, restaurants, hôtels), chefs de bar.
+language: fr
+
+keyword: CARTE
+lead_magnet:
+  name: "Checklist : une carte cocktails rentable"
+  url: ""   # à remplir quand la ressource existe
+
+tones:
+  gringo:   # Instagram, TikTok, YouTube Shorts
+    description: Direct, tutoiement, fun, un peu provoc. Signature « Gringo ». Emojis avec parcimonie.
+    cta: "Abonne-toi et commente {keyword} pour recevoir gratuitement « {lead_name} » 🍸"
+  pro:      # LinkedIn
+    description: Expert, posé, vouvoiement ou tutoiement sobre, orienté business (marge, ticket moyen, expérience client). Pas de « gringo ».
+    cta: "Commentez {keyword} ou écrivez-moi : je vous envoie « {lead_name} »."
