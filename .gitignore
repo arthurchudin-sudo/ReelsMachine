@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+jobs/*
+!jobs/.gitkeep
+assets/music/*
+assets/sfx/*
+!assets/**/.gitkeep
+.DS_Store
